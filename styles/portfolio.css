@@ -181,3 +181,26 @@ flex-shrink: 0;
 border-radius: 5px;
 background:#FFF;
 }
+#email{
+    color:  #757575;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+}
+#email{
+    width: 461px;
+height: 64px;
+flex-shrink: 0;
+margin-top: 24px;
+margin-bottom: 24px;
+background-color: #FFF;
+}
+#Message{
+    margin-bottom: 24px;
+    width: 461px;
+height: 180px;
+background-color: #FFF;
+}
+.footer-column{
+margin-right: 117px;
+}
